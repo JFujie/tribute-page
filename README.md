@@ -1,2 +1,2 @@
-# tribute-page
-an exercise for the WebDev course @ DCI
+# Alexander Volkanovski Tribute Page
+> an exercise for the WebDev course @ DCI
